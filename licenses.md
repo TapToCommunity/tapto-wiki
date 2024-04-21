@@ -1,8 +1,8 @@
 ---
-title: License
+title: Licenses
 description: 
 published: true
-date: 2024-04-21T22:30:31.778Z
+date: 2024-04-21T22:46:11.552Z
 tags: protected
 editor: markdown
 dateCreated: 2024-04-21T13:36:43.448Z
