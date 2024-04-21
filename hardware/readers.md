@@ -2,13 +2,11 @@
 title: NFC Readers
 description: 
 published: true
-date: 2024-04-21T08:31:41.843Z
+date: 2024-04-21T08:32:00.583Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-21T08:31:41.843Z
 ---
-
-# NFC Readers
 
 TapTo uses the [libnfc](https://nfc-tools.github.io/projects/libnfc/) library, so there may be other devices that work with the correct configuration.
 
