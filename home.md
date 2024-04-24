@@ -2,17 +2,17 @@
 title: Home
 description: 
 published: true
-date: 2024-04-21T22:28:57.946Z
+date: 2024-04-24T01:07:18.622Z
 tags: protected
 editor: markdown
 dateCreated: 2024-04-21T04:37:42.396Z
 ---
 
-![tapto_gitbhub_logo.png](/tapto_gitbhub_logo.png =500x){.align-center}
+![tapto_gitbhub_logo.png](/tapto_gitbhub_logo.png =300x){.align-center}
 
-TapTo is an open source system for launching games and scripted actions using physical objects like NFC cards. It's a great way to make playing games more accessible and add some fun to your gaming setup!
+TapTo is an open system for launching games and scripted actions using physical objects such as NFC tags. It's a great way to make playing games more accessible and add some fun to your gaming setup!
 
-See the [Getting Started](#getting-started) section below for everything you need to get up and running. Additional hardware is required but is aimed to be cheap and easily available. Please [join the Discord](https://wizzo.dev/discord) if you need any help or want to show off your work!
+See the [Getting Started](#getting-started) section below for everything you need to get up and running. Additional hardware is required but is aimed to be affordable and easily available. Please [join the Discord](https://wizzo.dev/discord) if you need any help or want to show off your work!
 
 ## Getting Started
 
