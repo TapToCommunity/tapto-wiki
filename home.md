@@ -2,13 +2,13 @@
 title: Home
 description: 
 published: true
-date: 2024-04-24T01:07:18.622Z
+date: 2024-04-25T09:59:45.158Z
 tags: protected
 editor: markdown
 dateCreated: 2024-04-21T04:37:42.396Z
 ---
 
-![tapto_gitbhub_logo.png](/tapto_gitbhub_logo.png =300x){.align-center}
+![tapto_gitbhub_logo.png](/tapto_gitbhub_logo.png =500x){.align-center}
 
 TapTo is an open system for launching games and scripted actions using physical objects such as NFC tags. It's a great way to make playing games more accessible and add some fun to your gaming setup!
 
