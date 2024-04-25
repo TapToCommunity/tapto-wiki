@@ -1,8 +1,8 @@
 ---
-title: Acknowledgements
+title: Contributors
 description: 
 published: true
-date: 2024-04-25T02:40:08.078Z
+date: 2024-04-25T02:40:52.822Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-21T13:22:54.193Z
